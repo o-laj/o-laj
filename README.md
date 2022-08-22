@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @o-laj
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Javascript, Python, PHP, SQL, HTML, CSS, Bootstrap, Django, React Js
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
 <!---
